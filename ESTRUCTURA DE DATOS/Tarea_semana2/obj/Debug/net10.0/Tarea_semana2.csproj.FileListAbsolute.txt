@@ -1,0 +1,14 @@
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\bin\Debug\net10.0\Tarea_semana2.exe
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\bin\Debug\net10.0\Tarea_semana2.deps.json
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\bin\Debug\net10.0\Tarea_semana2.runtimeconfig.json
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\bin\Debug\net10.0\Tarea_semana2.dll
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\bin\Debug\net10.0\Tarea_semana2.pdb
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.AssemblyInfoInputs.cache
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.AssemblyInfo.cs
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.csproj.CoreCompileInputs.cache
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.dll
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\refint\Tarea_semana2.dll
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.pdb
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\Tarea_semana2.genruntimeconfig.cache
+C:\Users\Amy\Documents\ESTRUCTURA DE DATOS\Tarea_semana2\obj\Debug\net10.0\ref\Tarea_semana2.dll
